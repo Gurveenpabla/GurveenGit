@@ -5,12 +5,10 @@ class Main {
 }   
 
 /*
-hello
-its not letting me type on the command line..
 
+now we make a change for eg we are adding these comments right so this is our change...
+now gurveen type git add . 
 
-ur email.. is it the one that's on your github? okayy hmm.. yeah it needs to be the one on your account yessss let me try now 
-
-im pretty sure let me just check yeah let me change it 
 
 */
+
